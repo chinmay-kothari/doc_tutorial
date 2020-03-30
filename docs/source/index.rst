@@ -10,6 +10,8 @@ Here is some simple text:
     print 'import done'
 
 This code is pushed from the local repo to the master to see if it changes on the readthedocs page or not
+*********************************************************************************************************
+Hello
 
 Guide
 *****

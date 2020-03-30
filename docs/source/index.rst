@@ -9,6 +9,7 @@ Here is some simple text:
     import math
     print 'import done'
 
+This code is pushed from the local repo to the master to see if it changes on the readthedocs page or not
 
 Guide
 *****
